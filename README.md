@@ -5,7 +5,7 @@
 - ⚡ Fun fact: I love music!
 ## I'm a Developer and Student!!
 
-  <b>- Academic life</b>
+- Academic life
       - High School Computer Technician - Federal Institute of Paraná
 
   <b>- Languages</b>
