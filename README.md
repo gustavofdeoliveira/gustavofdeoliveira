@@ -6,7 +6,7 @@
 ## I'm a Developer and Student!!
 
 - Academic life:
--- High School Computer Technician - Federal Institute of Paraná
+- High School Computer Technician - Federal Institute of Paraná
 
   <b>- Languages</b>
     - English
