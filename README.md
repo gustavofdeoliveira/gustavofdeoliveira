@@ -6,9 +6,9 @@
 ## I'm a Developer and Student!!
 
 - Academic life:
-  - High School Computer Technician - Federal Institute of Paraná
-
-  <b>- Languages</b>
+  - High School Computer Technician - Federal Institute of Paraná - IFPR
+  - Bachelor of Computer Engineering - Institute of Technology and Leadership - INTELI
+<b>- Languages</b>
     - English
     - Portuguese(Brazil)
     - Spanish
