@@ -16,10 +16,8 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/gustavo-ferreira-oliveira)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/gustavo-ferreira-oliveira)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/guxta.ferreira)
 [![website](./img/instagram-dark.svg)](https://instagram.com/guxta.ferreira)
 
 ### Languages and Tools:
