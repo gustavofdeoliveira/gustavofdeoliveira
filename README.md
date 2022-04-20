@@ -5,13 +5,14 @@
 - ⚡ Fun fact: I love music!
 ## I'm a Developer and Student!!
 
-- Academic life:
+- <b<Academic life:</b>
   - High School Computer Technician - Federal Institute of Paraná - IFPR
   - Bachelor of Computer Engineering - Institute of Technology and Leadership - INTELI
-<b>- Languages</b>
-    - English
-    - Portuguese(Brazil)
-    - Spanish
+
+- <b>Languages:</b>
+  - English
+  - Portuguese(Brazil)
+  - Spanish
 
 
 
